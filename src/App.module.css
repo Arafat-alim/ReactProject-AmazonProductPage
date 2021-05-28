@@ -1,0 +1,19 @@
+body {
+  font-family: "Roboto", sans-serif;
+}
+
+.MainContainer {
+  padding: 4% 12%;
+  width: 100%;
+  margin-top: 32px;
+  display: flex;
+  align-items: center;
+  box-sizing: border-box;
+}
+.ProductPreview {
+  position: relative;
+  width: 50%;
+}
+.ProductData {
+  width: 50%;
+}

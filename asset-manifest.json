@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/ReactProject-AmazonProductPage/static/css/main.894ed65d.chunk.css",
+    "main.js": "/ReactProject-AmazonProductPage/static/js/main.f01870c4.chunk.js",
+    "main.js.map": "/ReactProject-AmazonProductPage/static/js/main.f01870c4.chunk.js.map",
+    "runtime-main.js": "/ReactProject-AmazonProductPage/static/js/runtime-main.51791ba4.js",
+    "runtime-main.js.map": "/ReactProject-AmazonProductPage/static/js/runtime-main.51791ba4.js.map",
+    "static/js/2.128550be.chunk.js": "/ReactProject-AmazonProductPage/static/js/2.128550be.chunk.js",
+    "static/js/2.128550be.chunk.js.map": "/ReactProject-AmazonProductPage/static/js/2.128550be.chunk.js.map",
+    "static/js/3.c7a371ce.chunk.js": "/ReactProject-AmazonProductPage/static/js/3.c7a371ce.chunk.js",
+    "static/js/3.c7a371ce.chunk.js.map": "/ReactProject-AmazonProductPage/static/js/3.c7a371ce.chunk.js.map",
+    "index.html": "/ReactProject-AmazonProductPage/index.html",
+    "static/css/main.894ed65d.chunk.css.map": "/ReactProject-AmazonProductPage/static/css/main.894ed65d.chunk.css.map",
+    "static/js/2.128550be.chunk.js.LICENSE.txt": "/ReactProject-AmazonProductPage/static/js/2.128550be.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.51791ba4.js",
+    "static/js/2.128550be.chunk.js",
+    "static/css/main.894ed65d.chunk.css",
+    "static/js/main.f01870c4.chunk.js"
+  ]
+}
